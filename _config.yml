@@ -280,7 +280,7 @@ compress_html:
     envs: development
 
 collections:
-  portfolio:
+  Books:
     output: true
     permalink: /:collection/:path/
 
@@ -298,11 +298,10 @@ defaults:
       share: true
       related: true
       show_date: true
-
-  # _portfolio
+  # _Books
   - scope:
       path: ""
-      type: portfolio
+      type: Books
     values:
       layout: single
       author_profile: false

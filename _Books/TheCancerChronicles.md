@@ -1,6 +1,6 @@
 ---
-layout: posts
-title:  "Emperor of All Maladies: A biography of Cancer"
+# layout: posts
+title:  "Cancer Chronicles: Unlocking Medicine's Deepest Mystery"
 ---
 The author argues that cancer discriminates against age, weight & poverty. Randomness/entropy will result in mutations causing cancer. However, he also discusses the EXPONENTIAL growth in therapies against this "Emperor of All Maladies"!
 
