@@ -4,13 +4,17 @@ main:
       url: /about/
     - title: "Books"
       url: /Books
+    - title: "Posts by Categories"
+      url: /category-archive/
+
+    # - title: "Posts By Category"
+    #   url: /Posts-By-Category/
 
   # - title: "About2"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
   #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+
   # - title: "Sitemap"
   #   url: /sitemap/  
 
