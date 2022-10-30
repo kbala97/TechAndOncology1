@@ -5,6 +5,11 @@ title: About
 author_profile: true
 classes: wide
 date: February 21, 2022
+
+header:
+  overlay_image: /assets/images/national-cancer-institute-Colorectal-Inhibitors.jpg
+  overlay_filter: 0.1 # same as adding an opacity of 0.5 to a black background
+  caption: "Photo credit: [**National Cancer Institute**](https://visualsonline.cancer.gov)"
 ---
 
 This blog shares content that I have read or learned over decades of work in technology, healthcare and oncology. Digitization and the need to share knowledge as quickly as possible accelerated during the Covid19 epidemic. This blog hopes to share some of the trends at the intersection of technology and oncology! 

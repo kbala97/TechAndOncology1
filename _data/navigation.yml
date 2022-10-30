@@ -5,7 +5,7 @@ main:
     - title: "Books"
       url: /Books
     - title: "Posts by Categories"
-      url: /category-archive/
+      url: /category/
 
     # - title: "Posts By Category"
     #   url: /Posts-By-Category/
