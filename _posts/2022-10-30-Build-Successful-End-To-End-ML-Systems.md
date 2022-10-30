@@ -1,14 +1,12 @@
 ---
 layout: posts
 title:  "Build Successful End to End Machine Learning Systems"
-category: technology
+category: data
 
 ---
 
 Great advice on what it takes to be great data scientist and data engineer: 
 A data-centric inquiring mind, Desire to pick up some tech skills over time and, as importantly, communication skills! 
-
-
 
  
 
