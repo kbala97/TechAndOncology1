@@ -1,7 +1,7 @@
 ---
 layout: posts
 title:  "The New CPT Codes for Digital Pathology"
-category: data
+category: oncology
 
 ---
 Great podcast by Digital Pathology Today and Proscia co-founder Nathan Buchbinder discuss the new AMA/CPT (cat 3) codes for Digital Pathology. While this step is a clear indication of the value of digipath, several additional steps are needed to make reimbursement a reality.

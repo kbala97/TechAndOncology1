@@ -1,7 +1,7 @@
 ---
 layout: posts
 title:  "Build Successful End to End Machine Learning Systems"
-category: data
+category: Data, AI/Machine-Learning
 
 ---
 

@@ -1,13 +1,10 @@
 ---
 layout: posts
-title:  "Gitflow Versus Trunk Based Development for Software Source Control"
+title:  "Software Branching and Source Control: GitFlow versus Trunk-Based-Development"
 category: technology
 
 ---
-
-
-
 Wonderful guidelines for selecting gitflow versus trunk-based-development for software code source control. Really depends on your team and business model.  
- 
+@codingblocks
 
-[Toptal-Blog](https://www.toptal.com/software/trunk-based-development-git-flow)
+[Coding Blocks Podcast](https://www.codingblocks.net/podcast/comparing-git-workflows/)

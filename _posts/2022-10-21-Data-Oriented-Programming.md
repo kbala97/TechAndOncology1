@@ -1,7 +1,7 @@
 ---
 layout: posts
 title:  "What is Data Oriented Programming?"
-category: data
+category: Data, AI/Machine-Learning
 
 ---
 Brilliant conversation on data-oriented programming with JSON schema front-and-center versus Object Oriented Programming including strongly typed systems. 

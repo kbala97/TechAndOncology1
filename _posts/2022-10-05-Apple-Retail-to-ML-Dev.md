@@ -1,7 +1,7 @@
 ---
 layout: posts
 title:  "From Apple store specialist to ML engineer at Apple"
-category: data
+category: Data, AI/Machine-Learning
 
 ---
 A great story: A tenacious and humble engineer @loganKilpatrick describes his journey from the Apple store to an ML engineer at Apple! 
