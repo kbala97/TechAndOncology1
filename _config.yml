@@ -18,9 +18,18 @@ minimal_mistakes_skin    :  "dark"  # "default",  "air"  , "aqua","contrast" ,  
 locale                   : "en-US"
 title                    : "Technology and Oncology"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Sharing content at the intersection of technology and oncology"
 name                     : "Krishna Bala"
-description              : "This blog informs readers of the impact of various technologies on the field of oncology"
+description              : "This blog informs readers about the progress in technology and the field of oncology"
+port                     : 4000
+host                     : "0.0.0.0"
+
+# locale                   : "en-US"
+# title                    : "Technology and Oncology"
+# title_separator          : "-"
+# subtitle                 : # site tagline that appears below site title in masthead
+# name                     : "Krishna Bala"
+# description              : "This blog informs readers of the impact of various technologies on the field of oncology"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "kbala97/minimal-mistakes-BalaNew"
