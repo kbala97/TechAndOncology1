@@ -10,4 +10,4 @@ This podcast discusses the need for using the Dicom standard for annotations, no
 
 
  
-[Alexander-Zuraw-Podcast](https://digitalpathologyplace.com/portfolio-item/dicom-standard-for-pathology-annotations-why-do-we-need-it-w-david-clunie-pixelmed-publishing/)
+[DICOM Annotations](https://digitalpathologyplace.com/portfolio-item/dicom-standard-for-pathology-annotations-why-do-we-need-it-w-david-clunie-pixelmed-publishing/)

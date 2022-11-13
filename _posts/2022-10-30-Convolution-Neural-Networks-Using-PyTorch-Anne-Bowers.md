@@ -13,6 +13,6 @@ AI/Machine-Learning Convolution Neural Networks (CNNs) are at the heart of many 
 ●	I was able to build a model and test it. 
 
 
-[Anne Bonner Blog](https://www.freecodecamp.org/news/how-to-build-the-best-image-classifier-3c72010b3d55/)
+[Anne Bonner Blog CNNs](https://www.freecodecamp.org/news/how-to-build-the-best-image-classifier-3c72010b3d55/)
 
 [Image Classification Using PyTorch](https://www.youtube.com/watch?v=zFA8Cm13Xmk)

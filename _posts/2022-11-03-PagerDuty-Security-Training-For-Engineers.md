@@ -11,4 +11,4 @@ Authentication vulnerabilities:
 Hash plus SALT, maybe PEPPE, study Rainbow tables – leaked passwords, key stretching and adaptive methods, cryptographic methods like MD5, bcrypt have salting built-in and other intresting topics. 
 
 
-[Coding Blocks Podcast](https://www.codingblocks.net/podcast/pagerdutys-security-training-for-engineers/)
+[Security Pager Duty](https://www.codingblocks.net/podcast/pagerdutys-security-training-for-engineers/)

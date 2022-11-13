@@ -7,4 +7,4 @@ category: technology
 Wonderful guidelines for selecting gitflow versus trunk-based-development for software code source control. Really depends on your team and business model.  
 @codingblocks
 
-[Coding Blocks Podcast](https://www.codingblocks.net/podcast/comparing-git-workflows/)
+[SW Branching and Source Control](https://www.codingblocks.net/podcast/comparing-git-workflows/)

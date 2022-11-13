@@ -10,4 +10,4 @@ A data-centric inquiring mind, Desire to pick up some tech skills over time and,
 
  
 
-[Daliana-Liu-Podcast](https://podcasts.apple.com/us/podcast/build-successful-end-to-end-machine-learning-systems/id1584430381?i=1000543771401)
+[Successful End to End ML Systems](https://podcasts.apple.com/us/podcast/build-successful-end-to-end-machine-learning-systems/id1584430381?i=1000543771401)
