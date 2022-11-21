@@ -12,7 +12,7 @@
 
 #theme                   : "minimal-mistakes-jekyll"
 remote_theme             : "mmistakes/minimal-mistakes@4.24.0"
-minimal_mistakes_skin    :  "dark"  # "default",  "air"  , "aqua","contrast" ,  , "dirt"  , "neon"  , "mint", "plum", "sunrise" 
+minimal_mistakes_skin    : "dark"  #  "default" ,  "air"  , "aqua","contrast" ,  , "dirt"  , "neon"  , "mint", "plum", "sunrise" 
 
 # Site Settings
 locale                   : "en-US"
@@ -127,6 +127,7 @@ author:
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
+      color: $twitter-color;
       url: "https://twitter.com/kbala9702"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
