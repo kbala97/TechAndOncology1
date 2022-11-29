@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "Digitizing the Oldest Tissue Repository in the US"
 category: oncology
 ---

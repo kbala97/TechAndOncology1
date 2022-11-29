@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "Software Reliability Engineering (SRE) and DevOps"
 category: technology
 

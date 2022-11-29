@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "Google's SRE (Site Reliability Engineering) Book: The 4 Golden Signals!"
 category: technology
 

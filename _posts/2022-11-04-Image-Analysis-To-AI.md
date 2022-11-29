@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "Evolution from Image Analysis to AI/Machine-Learning"
 category: Data, AI/Machine-Learning
 

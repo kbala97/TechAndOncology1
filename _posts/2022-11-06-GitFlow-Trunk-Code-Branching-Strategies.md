@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "Software Branching and Source Control: GitFlow versus Trunk-Based-Development"
 category: technology
 

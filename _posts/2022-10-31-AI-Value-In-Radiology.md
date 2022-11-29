@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "AI in Radiology Predicts the Future of Cancer Risk"
 category: oncology
 

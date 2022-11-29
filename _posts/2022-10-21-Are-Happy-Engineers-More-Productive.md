@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "Are Happy Engineers More Productive?"
 category: technology
 

@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "Immuno-oncology Basics And How Image Analysis Can Help"
 category: oncology
 

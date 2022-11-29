@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "What is Data Oriented Programming?"
 category: Data, AI/Machine-Learning
 

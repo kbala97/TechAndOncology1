@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "Build Successful End to End Machine Learning Systems"
 category: Data, AI/Machine-Learning
 

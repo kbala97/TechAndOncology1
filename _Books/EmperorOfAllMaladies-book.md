@@ -1,5 +1,5 @@
 ---
-# layout: posts
+layout: single
 title:  "Emperor of All Maladies: A biography of Cancer"
 ---
 Finished reading this Incredible book: Extremely well written. Tells the story of cancer, it’s possible origins and potential cures! Riveting!

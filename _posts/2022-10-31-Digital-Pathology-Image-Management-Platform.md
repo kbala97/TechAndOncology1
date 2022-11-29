@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "Digital Pathology: Image Management Platform"
 category: oncology
 

@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "Evolution of Clinical Pathology In The Last Century"
 category: oncology
 ---

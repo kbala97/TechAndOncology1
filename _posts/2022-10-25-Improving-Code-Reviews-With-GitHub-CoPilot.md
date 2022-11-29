@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "Improving code reviews with GitHub Copilot"
 category: technology
 

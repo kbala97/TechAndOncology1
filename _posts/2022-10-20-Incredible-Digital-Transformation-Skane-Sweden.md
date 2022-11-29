@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "The Incredible Digital Transformation of the Region Skane in Sweden"
 category: oncology
 

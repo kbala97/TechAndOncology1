@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "Container Registries: Amazon ECR, Docker Hub and GitHub Container Registry"
 category: technology
 

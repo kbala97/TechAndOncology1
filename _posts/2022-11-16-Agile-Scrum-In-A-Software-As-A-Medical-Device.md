@@ -1,7 +1,8 @@
 ---
-layout: posts
+layout: single
 title:  "Agile Scrum in A Software As A Medical Device Environment"
 category: oncology
+
 ---
 How to incorporate Agile-Scrum in a Software-As-A-Medical device environment?
 Some ideas suggested:

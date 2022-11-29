@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "Economic Thinking and a Mini-MBA for Data Scientists"
 category: Data, AI/Machine-Learning
 

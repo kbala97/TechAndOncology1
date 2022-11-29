@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "DICOM Standard for Pathology Annotations"
 category: oncology
 

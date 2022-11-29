@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "Deep AI/ML Multiple Instance Learning"
 category: Data, AI/Machine-Learning
 

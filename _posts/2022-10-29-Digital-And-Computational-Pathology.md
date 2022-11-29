@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "Digital And Computational Pathology"
 category: oncology
 

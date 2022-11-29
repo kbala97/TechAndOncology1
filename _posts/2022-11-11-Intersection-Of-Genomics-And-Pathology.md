@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "Intersection of Genomics and Pathology"
 category: oncology
 ---

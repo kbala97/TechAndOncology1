@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "From Apple store specialist to ML engineer at Apple"
 category: Data, AI/Machine-Learning
 

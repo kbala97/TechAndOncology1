@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "Third Wave of Imaging AI Evolution"
 category: oncology
 ---

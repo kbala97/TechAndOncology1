@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "5 takeaways from the FDA’s list of AI-enabled medical devices"
 category: Data, AI/Machine-Learning
 ---

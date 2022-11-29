@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "Driving Innovation And Engineering Practices"
 category: technology
 

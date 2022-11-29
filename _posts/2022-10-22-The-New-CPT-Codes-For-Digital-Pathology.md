@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "The New CPT Codes for Digital Pathology"
 category: oncology
 

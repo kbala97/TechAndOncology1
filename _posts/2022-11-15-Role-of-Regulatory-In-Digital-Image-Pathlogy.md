@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "Critical Role of Regulatory Affairs in Digital Image Pathology"
 category: oncology
 ---

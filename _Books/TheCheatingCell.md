@@ -1,5 +1,5 @@
 ---
-# layout: posts
+layout: single
 title:  "The Cheating Cell: How Evolution Helps Us Understand and Treat Cancer"
 ---
 

@@ -13,4 +13,8 @@ VOLUME /usr/src/app
 
 EXPOSE 4000
 
-CMD ["jekyll", "serve"]
+# CMD ["jekyll", "serve"]
+
+# CMD jekyll serve --livereload
+
+CMD ["bundle", "exec", "jekyll", "serve", "--force_polling"]

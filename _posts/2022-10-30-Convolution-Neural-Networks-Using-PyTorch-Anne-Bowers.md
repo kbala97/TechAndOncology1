@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "AI/ML Convolution Neural Networks (CNNs) For Image Classification"
 category: Data, AI/Machine-Learning
 

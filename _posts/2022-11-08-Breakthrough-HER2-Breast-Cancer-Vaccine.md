@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "Miraculous Breast Cancer Vaccine Passes First Human Trials"
 category: oncology
 ---

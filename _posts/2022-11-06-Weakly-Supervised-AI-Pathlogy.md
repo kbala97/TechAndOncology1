@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "Weekly Supervised AI For Pathology"
 category: Data, AI/Machine-Learning
 ---

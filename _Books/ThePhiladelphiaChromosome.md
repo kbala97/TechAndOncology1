@@ -1,5 +1,5 @@
 ---
-# layout: posts
+layout: single
 title:  "The Philadelphia Chromosome: A Mutant Gene and the Quest to Cure Cancer at the Genetic Level"
 ---
 Just finished reading a fascinating book:

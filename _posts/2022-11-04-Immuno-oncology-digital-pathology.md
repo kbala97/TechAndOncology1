@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "The Crossroads between Immuno-Oncology and Digital Pathology"
 category: oncology
 ---

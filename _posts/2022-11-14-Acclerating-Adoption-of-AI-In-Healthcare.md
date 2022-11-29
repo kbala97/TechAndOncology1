@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "Acclerating AI Adoption in Healthcare"
 category: Data, AI/Machine-Learning
 ---
