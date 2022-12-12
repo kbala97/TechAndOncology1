@@ -5,7 +5,7 @@ category: Data, AI/Machine-Learning
 
 ---
 
-AI/Machine-Learning Convolution Neural Networks (CNNs) are at the heart of many major image classification systems. I found a great blog on FreeCodeCamp by Anne Bonner (links are below). <br>
+AI/Machine-Learning Convolution Neural Networks (CNNs) are at the heart of many major image classification systems. I found a great blog on FreeCodeCamp (links are below). <br>
 +	She has complete installation instructions, and a block by block explanation of the python code required to built the model using PyTorch. <br>
 +	I landed up using Google Collab that gives you a free GPU. How cool! <br>
 +	She provides a brief explanation of the pre-trained models like ResNet and DenseNet that can be used for “Transfer Learning”. <br>
