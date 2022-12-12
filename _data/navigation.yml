@@ -5,7 +5,7 @@ main:
     - title: "Books"
       url: /Books
     - title: "Posts by Categories"
-      url: /categories/
+      url: /category/
       description: Posts by Category
 
     # - title: "Posts By Category"
