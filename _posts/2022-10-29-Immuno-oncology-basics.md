@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Immuno-oncology Basics And How Image Analysis Can Help"
-category: oncology
+categories: oncology
 
 ---
 Enlightening podcast by Prof Elfriede Noessner of Visiopharm about Immuno-oncology:

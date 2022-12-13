@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Career Advancement As A SW Engineer"
-category: technology
+categories: technology
 
 ---
 Great advice for software engineers from a perspective of culture, self-advocacy and mentorship. 

@@ -1,7 +1,7 @@
 ---
 title: "Posts by Categories"
 layout: categories
-permalink: /category/
+permalink: /categories/
 author_profile: true
 classes: wide
 header:

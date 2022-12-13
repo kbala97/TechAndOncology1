@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Improving code reviews with GitHub Copilot"
-category: technology
+categories: technology
 
 ---
 Interesting podcast on the use of GitHub Copilot for code reviews! 

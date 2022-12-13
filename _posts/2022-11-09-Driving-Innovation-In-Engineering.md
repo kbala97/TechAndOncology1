@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Driving Innovation And Engineering Practices"
-category: technology
+categories: technology
 
 ---
 1. Importance of Test Driven Development 

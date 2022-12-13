@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Data Driven Pathology"
-category: Data, AI/Machine-Learning
+categories: Data, AI/Machine-Learning
 ---
 
 Discussion on the importance of quality control systems in an ML pipeline, model generalizability, and how the regulatory process affects ML development.

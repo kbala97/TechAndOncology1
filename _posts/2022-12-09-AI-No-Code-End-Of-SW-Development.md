@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "AI, No-code, & The End Of Software Development"
-category: technology
+categories: technology
 
 ---
 The author didn’t write this story, an AI algorithm did…

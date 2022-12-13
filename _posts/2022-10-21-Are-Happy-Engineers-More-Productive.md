@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Are Happy Engineers More Productive?"
-category: technology
+categories: technology
 
 ---
 Happy developers are more productive. What makes them happy? To mention a few: Collaborative team, good manager, solid architecture and your personal impact on the output!

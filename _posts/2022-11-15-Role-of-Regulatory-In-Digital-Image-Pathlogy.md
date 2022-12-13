@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Critical Role of Regulatory Affairs in Digital Image Pathology"
-category: oncology
+categories: oncology
 ---
 
 Bridging the Gap: The Critical Role of Regulatory Affairs and Clinical Affairs in the Total Product Life Cycle of Pathology Imaging Devices and Software.

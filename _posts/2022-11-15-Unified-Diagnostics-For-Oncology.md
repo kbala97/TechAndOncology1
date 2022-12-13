@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Unified Diagnosis For Oncology"
-category: oncology
+categories: oncology
 ---
 
 

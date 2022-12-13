@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "The Long Journey for Digital Pathology"
-category: oncology
+categories: oncology
 ---
 
 

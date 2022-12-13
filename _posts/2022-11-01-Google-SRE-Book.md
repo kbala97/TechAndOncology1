@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Google's SRE (Site Reliability Engineering) Book: The 4 Golden Signals!"
-category: technology
+categories: technology
 
 ---
 Great review of Google’s SRE book that includes the 4 golden signal’s. If you do noting else, monitor the following:

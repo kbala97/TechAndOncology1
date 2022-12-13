@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Container Registries: Amazon ECR, Docker Hub and GitHub Container Registry"
-category: technology
+categories: technology
 
 ---
 Podcast discussing container registries: Amazon ECR, Docker Hub and GitHub's container registry. 

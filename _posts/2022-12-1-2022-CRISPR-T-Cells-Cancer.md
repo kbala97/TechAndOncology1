@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "New CRISPR T-cell based cancer treatment for Humans in Trial"
-category: oncology
+categories: oncology
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "AI in Radiology Predicts the Future of Cancer Risk"
-category: oncology
+categories: oncology
 
 ---
 Application of AI in Radiology to predict cancer in the future based on past mammograms.  

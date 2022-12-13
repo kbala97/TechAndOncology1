@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Pager Duty: Security Training for Engineers"
-category: technology
+categories: technology
 
 ---
 Security Guidelines: 
