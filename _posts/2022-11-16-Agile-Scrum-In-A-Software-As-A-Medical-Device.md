@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Agile Scrum in A Software As A Medical Device Environment"
-categories: oncology
+categories: technology
 
 ---
 How to incorporate Agile-Scrum in a Software-As-A-Medical device environment?

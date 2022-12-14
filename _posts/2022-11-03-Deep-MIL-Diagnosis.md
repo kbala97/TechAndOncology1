@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Deep AI/ML Multiple Instance Learning"
-categories: Data, AI/Machine-Learning
+categories: Data/AI/Machine-Learning
 
 ---
 Good overview of the application of Deep MIL to Image Based Diagnosis

@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Build Successful End to End Machine Learning Systems"
-categories: Data, AI/Machine-Learning
+categories: Data/AI/Machine-Learning
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Acclerating AI Adoption in Healthcare"
-categories: Data, AI/Machine-Learning
+categories: Data/AI/Machine-Learning
 ---
 
 

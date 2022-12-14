@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Evolution from Image Analysis to AI/Machine-Learning"
-categories: Data, AI/Machine-Learning
+categories: Data/AI/Machine-Learning
 
 ---
 This podcast describes an incredible journey starting with Image Analysis to including AI/ML deep learning capabilities

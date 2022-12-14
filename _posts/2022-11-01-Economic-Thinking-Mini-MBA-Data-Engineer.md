@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Economic Thinking and a Mini-MBA for Data Scientists"
-categories: Data, AI/Machine-Learning
+categories: Data/AI/Machine-Learning
 
 ---
 Every Data Scientist needs to be a “Product Manager”: Understand the full picture: user needs and pushing back on requirements! Asking question. Finally, while the data-model might be fascinating to you, present the learnings from your intended customer’s viewpoint. 
