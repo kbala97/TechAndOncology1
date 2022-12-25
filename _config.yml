@@ -32,7 +32,7 @@ host                     : "0.0.0.0"
 # description              : "This blog informs readers of the impact of various technologies on the field of oncology"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "kbala97/minimal-mistakes-BalaNew"
+repository               : # "kbala97/minimal-mistakes-BalaNew"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
