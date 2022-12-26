@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "AI Tool in Real Time Diagnosis During Surgery"
+title:  "AI Tool for Real Time Diagnosis During Surgery"
 categories: Data/AI/Machine-Learning
 
 ---
