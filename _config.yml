@@ -309,6 +309,7 @@ defaults:
       share: true
       related: true
       show_date: true
+      
   # _Books
   - scope:
       path: ""
