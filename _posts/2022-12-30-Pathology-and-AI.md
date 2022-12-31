@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "DICOM Standard for Pathology Imaging"
+title:  "Why and how should pathologists keep up with AI?"
 categories: oncology
 
 ---
