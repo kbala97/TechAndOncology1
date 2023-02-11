@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Data Scientist Interview Trends"
-categories: technology
+categories: Data/AI/Machine-Learning
 
 ---
 A data scientist turned career coach shares her personal journey to finding a job in this area and helping others find their path!
