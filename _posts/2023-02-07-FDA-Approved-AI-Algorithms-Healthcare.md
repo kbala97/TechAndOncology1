@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "RSNA Radiology AI Journal Trainee Review Board"
+title:  "FDA Approved AI Algorithms for Healthcare"
 categories: oncology
 
 ---
