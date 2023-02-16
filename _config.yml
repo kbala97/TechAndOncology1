@@ -20,7 +20,7 @@ title                    : "Technology and Oncology"
 title_separator          : "-"
 subtitle                 : "Sharing content at the intersection of technology and oncology"
 name                     : "Krishna Bala"
-description              : "This blog informs readers about the progress in technology and the field of oncology"
+description              : "This blog informs readers about progress in technology and the field of oncology"
 port                     : 4000
 host                     : "0.0.0.0"
 
