@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  ""
+title:  "Conway’s Law: The Little-known Principle That Influences Your Work More Than You Think"
 categories: technology
 
 ---
