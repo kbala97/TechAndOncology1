@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "How does CAR-T "Living Drug" Immunotherapy Work?"
+title:  "How does CAR-T Immunotherapy Work?"
 categories: oncology
 
 ---
