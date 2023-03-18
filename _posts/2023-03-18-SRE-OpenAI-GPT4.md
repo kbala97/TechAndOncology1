@@ -1,0 +1,11 @@
+---
+layout: single
+title:  "GPT-4 Technical Report"
+categories: Data/AI/Machine-Learning
+
+---
+GPT-4 (Generative Pretrained Transformer) is the engine behind the latest version of ChatGPT and the updated Bing search engine from Microscoft. This Technical report (Open AI 2023) discusses the development of GPT-4, a large-scale, multimodal model which can accept image and text inputs and produce text outputs. The image below shows GPT performance on academic and professional exams.  
+
+![GPT Performance On Academic And Professional Exams](/assets/images/GPT-Performance-Tests-Exams.png)
+
+[OpenAI](https://cdn.openai.com/papers/gpt-4.pdf)
