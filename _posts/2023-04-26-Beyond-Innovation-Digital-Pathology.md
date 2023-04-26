@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Beyond Innovation Digital Patholgy: How To Lead?"
+title:  "Beyond Innovation Digital Pathology: How To Lead?"
 categories: oncology
 
 ---
