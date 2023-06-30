@@ -8,4 +8,4 @@ ChatGPT nearly passed a radiology board–style examination without images, high
 
 ![GPT Performance On Radiology Board-Style Exam](https://kbala97.github.io/TechAndOncology/assets/images/ChatGPT-Radiology-Board.png)
 
-[RSNA Pub] (https://pubs.rsna.org/doi/10.1148/radiol.230582)
+[RSNA Pub](https://pubs.rsna.org/doi/10.1148/radiol.230582)
