@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Will AI Kill Us All: With Marc Andressen"
+title:  "Will AI Kill Us All: With Marc Andreessen"
 categories: technology
 
 ---
