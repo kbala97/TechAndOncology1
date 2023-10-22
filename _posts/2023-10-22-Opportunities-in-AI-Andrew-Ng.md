@@ -8,4 +8,4 @@ Brilliant video by Prof. Andrew Ng: As always an incredible teacher that takes c
 
 ![Generative-AI](https://kbala97.github.io/TechAndOncology/assets/images/Opportunities-Generative-AI.png)
 
-[Prof. Andrew Ng](https://www.youtube.com/watch?v=5p248yoa3oE&t=1399s)
+[Youtube Prof. Andrew Ng](https://www.youtube.com/watch?v=5p248yoa3oE&t=1399s)
