@@ -4,7 +4,7 @@ title:  Opportunities in AI 2023
 categories: technology
 
 ---
-Brilliant video by Prof. Andrew Ng: An incredible teacher who takes complex subjects and make them very simple to understand! 
+Brilliant video by Prof. Andrew Ng: An incredible teacher who takes complex subjects and makes them very simple to understand! 
 
 ![Generative-AI](https://kbala97.github.io/TechAndOncology/assets/images/Opportunities-Generative-AI.png)
 
